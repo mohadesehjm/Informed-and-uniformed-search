@@ -4,7 +4,7 @@ This project is about informed and uniformed search
 
 Implementation of BFS, DFS, BDS, UCS, A*, IDA*
 
-Heuristic: Manhattan Distance,  Linear Confilicts + Manhattan Distance, Disjoint pattern database
+Heuristic: Manhattan Distance,  Linear Conflicts + Manhattan Distance, Disjoint pattern database
 
 input of program: start with 4*4 matrix of initial state (empty place is shown zero)
 
